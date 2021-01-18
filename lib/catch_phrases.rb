@@ -10,4 +10,5 @@ end
 
 def link 
   danger = "It's Dangerous To Go Alone! Take This."
+  puts danger
 end
